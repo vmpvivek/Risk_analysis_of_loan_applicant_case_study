@@ -25,7 +25,9 @@ In other words, the company wants to understand the driving factors (or driver v
 
 •
 'application_data.csv' contains all the information of the client at the time of application.The data is about whether a client has payment difficulties.
+
 •
 'previous_application.csv' contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
+
 •
 'columns_description.csv' is data dictionary which describes the meaning of the variables.
